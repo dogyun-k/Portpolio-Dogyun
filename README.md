@@ -21,7 +21,7 @@
 **Python**
 
 - [**수강신청도우미**](https://github.com/dogyun-k/Majorpick)
-- [**빅데이터 분석 파이프라인**](https://github.com/dogyun-k/BigDataAnalsys)
+<!-- - [**빅데이터 분석 파이프라인**](https://github.com/dogyun-k/BigDataAnalsys) -->
 
 
 ## Web Practices
